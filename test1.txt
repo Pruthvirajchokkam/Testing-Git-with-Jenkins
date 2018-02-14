@@ -1,0 +1,2 @@
+dummy.txt   GitCommands.txt  Hello.java  test.txt
+dummy2.txt  Hello.class      notepad	 test1.txt
